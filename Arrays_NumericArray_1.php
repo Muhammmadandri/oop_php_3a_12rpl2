@@ -1,4 +1,5 @@
 <?php
+//daftar barang yang dijual=....
 $halalmart[0] = "Piscok";
 $halalmart[1] = "Donat";
 $halalmart[2] = "milktea";
